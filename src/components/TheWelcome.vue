@@ -4,7 +4,7 @@
 <template>
   <h2>Bienvenu/e !</h2>
   <p>Pour le moment le site est en construction. La prise de rendez-vous sur
-    <a href="https://www.planity.com/i-love-beauty-by-juju-17000-la-rochelle">
+    <a href="https://www.planity.com/i-love-beauty-by-juju-17000-la-rochelle" target="_blank">
       Planity
     </a>
     arrive bientôt.
@@ -14,7 +14,7 @@
   </p>
 
   <p>Adresse du salon :</p>
-  <a href="https://maps.app.goo.gl/QzVHSjfRM6sdZfLe6">43 Rue des pêcheurs d'Islande, 17300 Rochefort</a>
+  <a href="https://maps.app.goo.gl/QzVHSjfRM6sdZfLe6" target="_blank">43 Rue des pêcheurs d'Islande, 17300 Rochefort</a>
 
 </template>
 
